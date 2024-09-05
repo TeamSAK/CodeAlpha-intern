@@ -1,3 +1,3 @@
-# CodeAlpha-intern
+# BUILD THE SCIENTIFIC iN PYTHON
 BUILD THE SCIENTIFIC  CALCULATOR 
 By Saif ali khan
